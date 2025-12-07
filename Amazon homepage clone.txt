@@ -1,0 +1,45 @@
+# Amazon Homepage Clone
+
+This is a beginner-level frontend project that recreates the layout and design of the Amazon homepage using HTML and CSS.
+
+The project is created as part of my learning journey in frontend development.
+
+---
+
+## 📌 Features
+- Navigation bar similar to Amazon
+- Search bar with icons
+- Product category sections
+- Hero section
+- Footer layout
+- Clean UI structure
+
+---
+
+## 🛠 Technologies Used
+- HTML5
+- CSS3
+- Font Awesome Icons
+
+---
+
+## 🚀 How to Run the Project
+1. Download or clone the repository
+2. Open index.html in any web browser
+3. Explore the homepage design
+
+---
+
+## 📷 Screenshot
+![image alt](https://github.com/yashikadhiman/Amazon-clone/blob/main/project1.html/ss1.png?raw=true)
+
+---
+
+## 🙋 Author
+*Yashika Dhiman*  
+Beginner Frontend Developer  
+
+---
+
+## 📌 Note
+This project is made for learning and practice purposes only.
